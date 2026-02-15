@@ -1,3 +1,7 @@
+---
+layout: none
+title: Connor\'s Modpack
+---
 # General
 this modpack is pretty lightweight, anything that can run minecraft java should be able to run this, the shaders are a mix of lightweight and heavyweight shaders, try each one and mess around in the settings for 30 minutes to tune everything to
 how you want it
